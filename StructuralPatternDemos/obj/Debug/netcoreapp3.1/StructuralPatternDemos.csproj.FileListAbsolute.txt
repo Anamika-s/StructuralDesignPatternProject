@@ -1,0 +1,13 @@
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\StructuralPatternDemos\obj\Debug\netcoreapp3.1\StructuralPatternDemos.csprojAssemblyReference.cache
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\StructuralPatternDemos\obj\Debug\netcoreapp3.1\StructuralPatternDemos.AssemblyInfoInputs.cache
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\StructuralPatternDemos\obj\Debug\netcoreapp3.1\StructuralPatternDemos.AssemblyInfo.cs
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\StructuralPatternDemos\obj\Debug\netcoreapp3.1\StructuralPatternDemos.csproj.CoreCompileInputs.cache
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\StructuralPatternDemos\bin\Debug\netcoreapp3.1\StructuralPatternDemos.exe
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\StructuralPatternDemos\bin\Debug\netcoreapp3.1\StructuralPatternDemos.deps.json
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\StructuralPatternDemos\bin\Debug\netcoreapp3.1\StructuralPatternDemos.runtimeconfig.json
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\StructuralPatternDemos\bin\Debug\netcoreapp3.1\StructuralPatternDemos.runtimeconfig.dev.json
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\StructuralPatternDemos\bin\Debug\netcoreapp3.1\StructuralPatternDemos.dll
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\StructuralPatternDemos\bin\Debug\netcoreapp3.1\StructuralPatternDemos.pdb
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\StructuralPatternDemos\obj\Debug\netcoreapp3.1\StructuralPatternDemos.dll
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\StructuralPatternDemos\obj\Debug\netcoreapp3.1\StructuralPatternDemos.pdb
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\StructuralPatternDemos\obj\Debug\netcoreapp3.1\StructuralPatternDemos.genruntimeconfig.cache

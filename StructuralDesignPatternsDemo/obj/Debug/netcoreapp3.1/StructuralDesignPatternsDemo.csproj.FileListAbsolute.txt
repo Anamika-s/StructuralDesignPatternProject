@@ -1,0 +1,13 @@
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\StructuralDesignPatternsDemo\bin\Debug\netcoreapp3.1\StructuralDesignPatternsDemo.exe
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\StructuralDesignPatternsDemo\bin\Debug\netcoreapp3.1\StructuralDesignPatternsDemo.deps.json
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\StructuralDesignPatternsDemo\bin\Debug\netcoreapp3.1\StructuralDesignPatternsDemo.runtimeconfig.json
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\StructuralDesignPatternsDemo\bin\Debug\netcoreapp3.1\StructuralDesignPatternsDemo.runtimeconfig.dev.json
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\StructuralDesignPatternsDemo\bin\Debug\netcoreapp3.1\StructuralDesignPatternsDemo.dll
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\StructuralDesignPatternsDemo\bin\Debug\netcoreapp3.1\StructuralDesignPatternsDemo.pdb
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\StructuralDesignPatternsDemo\obj\Debug\netcoreapp3.1\StructuralDesignPatternsDemo.csprojAssemblyReference.cache
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\StructuralDesignPatternsDemo\obj\Debug\netcoreapp3.1\StructuralDesignPatternsDemo.AssemblyInfoInputs.cache
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\StructuralDesignPatternsDemo\obj\Debug\netcoreapp3.1\StructuralDesignPatternsDemo.AssemblyInfo.cs
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\StructuralDesignPatternsDemo\obj\Debug\netcoreapp3.1\StructuralDesignPatternsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\StructuralDesignPatternsDemo\obj\Debug\netcoreapp3.1\StructuralDesignPatternsDemo.dll
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\StructuralDesignPatternsDemo\obj\Debug\netcoreapp3.1\StructuralDesignPatternsDemo.pdb
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\StructuralDesignPatternsDemo\obj\Debug\netcoreapp3.1\StructuralDesignPatternsDemo.genruntimeconfig.cache

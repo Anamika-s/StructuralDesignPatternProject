@@ -1,0 +1,13 @@
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\FacadePatternDemos\bin\Debug\netcoreapp3.1\FacadePatternDemos.exe
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\FacadePatternDemos\bin\Debug\netcoreapp3.1\FacadePatternDemos.deps.json
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\FacadePatternDemos\bin\Debug\netcoreapp3.1\FacadePatternDemos.runtimeconfig.json
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\FacadePatternDemos\bin\Debug\netcoreapp3.1\FacadePatternDemos.runtimeconfig.dev.json
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\FacadePatternDemos\bin\Debug\netcoreapp3.1\FacadePatternDemos.dll
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\FacadePatternDemos\bin\Debug\netcoreapp3.1\FacadePatternDemos.pdb
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\FacadePatternDemos\obj\Debug\netcoreapp3.1\FacadePatternDemos.csprojAssemblyReference.cache
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\FacadePatternDemos\obj\Debug\netcoreapp3.1\FacadePatternDemos.AssemblyInfoInputs.cache
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\FacadePatternDemos\obj\Debug\netcoreapp3.1\FacadePatternDemos.AssemblyInfo.cs
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\FacadePatternDemos\obj\Debug\netcoreapp3.1\FacadePatternDemos.csproj.CoreCompileInputs.cache
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\FacadePatternDemos\obj\Debug\netcoreapp3.1\FacadePatternDemos.dll
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\FacadePatternDemos\obj\Debug\netcoreapp3.1\FacadePatternDemos.pdb
+C:\Users\Anamika\source\repos\StructuralDesignPatternsDemo\FacadePatternDemos\obj\Debug\netcoreapp3.1\FacadePatternDemos.genruntimeconfig.cache
